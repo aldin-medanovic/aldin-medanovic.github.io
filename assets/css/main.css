@@ -3426,3 +3426,15 @@ input, select, textarea {
 
 		
 	}
+
+
+	/*Hiden text for button card*/
+	.hidden32 {
+		
+		color: transparent;
+			font-size: 1em;
+			margin: 0 0 0.5em 0;
+			text-indent: 100%;
+			white-space: nowrap;
+			overflow: hidden;
+	}
